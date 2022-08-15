@@ -16,12 +16,12 @@ body{
 }
 .img_container{
     margin: 0 auto;
-    width: 200px;
+    width: 300px;
     padding: 0;
 }
 .qr_img{
-    width: 200px;
-    height: auto;
+    width: auto;
+    height: 300px;
     border-radius: 10px;
 }
 .para_container{
@@ -37,7 +37,7 @@ body{
 }
 .container{
     background-color: white;
-    width: 220px;
+    width: 320px;
     padding: .6em 0;
     margin: auto;
     border-radius: 10px;
